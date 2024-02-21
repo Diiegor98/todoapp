@@ -33,8 +33,8 @@ const addNewTask = event => {
     if(!value) return;
 
     /*Si está lleno creamos un div: 
-    -con la clase task
-    -un evento de click
+    -con la clase task para el css
+    -un evento de click para cambiar el css 
     -texto del value
     -agregamos a lo primero de la lista
     -reseteamos el input
