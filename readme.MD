@@ -7,6 +7,7 @@ La función del proyecto fué crear una To Do App, donde el cliente puede agrega
 Se utilizó:
  - HTML
  - CSS flexbox
+ - JavaScript
  - Bootstrap
 
 ### 📋DESARROLLO
